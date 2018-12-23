@@ -1,5 +1,3 @@
-Install
-
 const puppeteer = require('puppeteer');
 const url = process.argv[2];
 
