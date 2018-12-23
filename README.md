@@ -25,4 +25,10 @@ Found 2 graphs
 Screenshot saved to screenshot.png
 ```
 
+Open `screenshot.png` to find:
+
 ![](screenshot.png)
+
+## Bugs
+
+We try to be smart about window sizing, but it's not an exact science. We aim for 5 graphs per row, but it might be a little off.
